@@ -1,0 +1,39 @@
+#htaccess-editor-wp {
+  text-align: center;
+  font-family: Poppins;
+}
+.htaccess-editor-wp-title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  letter-spacing: 10px;
+  margin-left: 20px;
+  color: #21759b;
+}
+#htaccess-editor-file {
+  margin: 0 auto;
+  width: 700px;
+  height: 430px;
+  color: #21759b;
+}
+.hewp-author {
+  text-decoration: none;
+  color: #21759b;
+}
+#htaccess-editor-wp button {
+  background-color: #21759b;
+  margin: 15px 10px 10px 10px;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+#htaccess-editor-wp button:hover {
+  background-color: #0a4b78;
+}
+#hewp-form {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=style.css.map */
